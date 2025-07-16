@@ -15,7 +15,11 @@ FAKE_DB = {
     "불편한 편의점": {
         "aladin": {"price": "11,200원", "stock": "재고 2개", "link": "https://www.aladin.co.kr/"},
         "yes24": {"price": "11,500원", "stock": "품절", "link": "http://www.yes24.com/"}
-    }
+    },
+    "나미아 잡화점의 기적": {
+        "aladin": {"price": "10,050원", "stock": "재고 1개", "link": "https://www.aladin.co.kr/"},
+        "yes24": {"price": "13,000원", "stock": "재고 5개", "link": "http://www.yes24.com/"}
+    },
 }
 
 # --- 2. 웹페이지 UI 구성 ---
